@@ -14,6 +14,5 @@ void loop() {
     x = 0;
   }
   //The serial port slows your program down so comment it out.
- Serial.print("fred equals ");
-  Serial.println(x);
+//Serial.println(x);
 }

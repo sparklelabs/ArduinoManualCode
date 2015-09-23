@@ -1,3 +1,4 @@
+// This is an alternate version. Take a look at the differences.
 int x = 0;
 int ledPin = 13;
 void setup() {

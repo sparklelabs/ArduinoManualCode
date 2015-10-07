@@ -1,5 +1,8 @@
-void setup() {
-}
+byte x;
+void setup() { 
+} 
 void loop() {
-    analogWrite(11, 80);
+  x = x+1;
+  analogWrite(11, x);
+  delay(10);
 }
